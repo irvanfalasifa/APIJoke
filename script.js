@@ -6,6 +6,7 @@ jokeBtn.addEventListener('click', generateJoke)
 
 generateJoke()
 
+//Button Animation Function
 buttons.forEach(button => {
   button.addEventListener('click', function (e) {
       const x = e.pageX
