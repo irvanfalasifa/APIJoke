@@ -3,13 +3,10 @@
 </h1>
 
 <p align='center'>
-  dad.joke-with-Javascript
+  dad joke-with Javascript
 </p>
 
-<p>
-  ![dadjoke](https://github.com/irvanfalasifa/APIJoke/assets/84895252/42b6c318-58c4-4a2a-a77d-83623c013fb3)
-
-</p>
+![dadjoke](https://github.com/irvanfalasifa/APIJoke/assets/84895252/1f6dd6f1-1d0e-4c01-8803-b02b9a71e4d8)
 
 <p align='center'>
  <a href='mailto:irvan.falasfia@gmail.com'> 
