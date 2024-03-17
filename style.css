@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #686de0;
+  background-color:sandybrown;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -18,9 +18,9 @@ body {
 }
 
 button {
-  background-color: purple;
+  background-color: #0ea001;
   color: #fff;
-  border: 1px purple solid;
+  border: 1px #0ea001;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -36,7 +36,7 @@ button:focus {
 
 button .circle {
   position: absolute;
-  background-color: #fff;
+  background-color: #ffffff3f;
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -76,7 +76,7 @@ h3 {
 }
 
 .btn {
-  background-color: #9f68e0;
+  background-color: #0ea001;
   color: #fff;
   border: 0;
   border-radius: 10px;
